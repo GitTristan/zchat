@@ -1,0 +1,11 @@
+{
+  "name": "zchat",
+  "version": "1.2.0",
+  "description": "zopim zchat sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tristan Rubadeau",
+  "license": "MIT"
+}
